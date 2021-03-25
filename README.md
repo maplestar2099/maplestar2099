@@ -8,3 +8,6 @@
 maplestar2099/maplestar2099 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+https://github.com/zhangbin0917/Deep-Learning-Semantic-Segmentation
+https://github.com/divamgupta/image-segmentation-keras
